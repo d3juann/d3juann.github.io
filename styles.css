@@ -17,3 +17,24 @@ h1 {
     width: 200px;
     padding: 10px;
 }
+
+.assign {
+    border-radius: 20px;/* curved corners */
+}
+
+a:hover {
+
+    text-decoration: none; /*remove underlining on anchors tags */
+    color: blueviolet; 
+}
+
+a { 
+    text-decoration: none;
+    color: mediumpurple;
+}
+
+.assign img {
+
+    padding: 10px;
+    border: 2px blue;
+}
